@@ -1,0 +1,33 @@
+_repo: Jerry-or-the-sailor-boy-ashore-b-Being-the-seventha-fragmentin-the-series-of-the-Aimwell-Stor__74467
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aimwell, Walter
+    alias: Simonds, William
+    birthdate: 1822
+    deathdate: 1859
+    gutenberg_agent_id: '7840'
+    url: http://www.gutenberg.org/2009/agents/7840
+    wikipedia: https://en.wikipedia.org/wiki/William_Simonds_(author)
+description: ''
+gutenberg_issued: '2024-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74467'
+language: en
+pgterms:marc904: https://archive.org/details/clintonorboylife00aimw
+pgterms:marc905: 20200225144239aimwell
+pgterms:marc906: '1863'
+pgterms:marc907: US
+production_note: Richard Hulse and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aBoston :$bGould and Lincoln, $c1863.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jerry; or, the sailor boy ashore : $b Being the seventh—a fragment—in the
+  series of the "Aimwell Stories"'
+url: http://www.gutenberg.org/ebooks/74467
